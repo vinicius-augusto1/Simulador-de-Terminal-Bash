@@ -14,6 +14,8 @@ Um simulador de terminal Bash funcional e interativo via navegador, construído 
 
 ```
 .
+├── /cli
+  ├── main.py         # Backend do projeto em Python sem GUI
 ├── index.html        # Interface do terminal web
 ├── style.css         # Estilização do terminal e layout
 ├── script.js         # Lógica de interação e comandos no frontend
